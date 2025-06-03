@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="362beff4-39a1-4dc7-bb8e-0720a4f5e2e8" name="Changes" comment="cmt">
-      <change afterPath="$PROJECT_DIR$/DoanCanBang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XepQuanXeLenBanCo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,12 +42,13 @@
     "Python.HonSo.executor": "Run",
     "Python.SumOdds.executor": "Run",
     "Python.TimSo.executor": "Run",
+    "Python.XepQuanXeLenBanCo.executor": "Run",
     "Python.hello.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.DoanCanBang">
+  <component name="RunManager" selected="Python.XepQuanXeLenBanCo">
     <configuration name="ChonNhom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Coding" />
       <option name="ENV_FILES" value="" />
@@ -136,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TimSo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="XepQuanXeLenBanCo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Coding" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TimSo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XepQuanXeLenBanCo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.XepQuanXeLenBanCo" />
         <item itemvalue="Python.DoanCanBang" />
         <item itemvalue="Python.ChonNhom" />
         <item itemvalue="Python.SumOdds" />
         <item itemvalue="Python.HonSo" />
-        <item itemvalue="Python.TimSo" />
       </list>
     </recent_temporary>
   </component>
