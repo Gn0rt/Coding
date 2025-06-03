@@ -25,7 +25,7 @@ for i in range(3):
         result = (a1, b1, c)
     value2 = a2 + b2 /c
     if value2 > max_value:
-        max_value = value28
+        max_value = value2
         result = (a2, b2, c)
 if result is not None:
     print(f"{result[0]} {result[1]} {result[2]}");
