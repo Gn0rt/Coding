@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="362beff4-39a1-4dc7-bb8e-0720a4f5e2e8" name="Changes" comment="cmt">
-      <change afterPath="$PROJECT_DIR$/BinhDang.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinhDang.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinhDang.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

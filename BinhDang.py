@@ -8,7 +8,7 @@ for char in s:
     # Chuyển chữ cái thành chỉ số: A -> 0, B -> 1, ..., K -> k-1
     index = ord(char) - ord('A')
     freq[index] += 1
-
+print(freq)
 # Tìm t tối đa có thể (tần suất nhỏ nhất của k chữ cái)
 max_t = min(freq)  # t không thể lớn hơn tần suất nhỏ nhất
 
