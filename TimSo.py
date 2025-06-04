@@ -38,3 +38,28 @@ else:
         print(f"{t} (Y = {B}*{t}^2 = {Y})", end=", ")
     print(f"\n\nSố lượng Y hợp lệ là: {max_t}")
     print(max_t)
+
+
+
+    
+# import math
+#
+# # Đọc dữ liệu đầu vào
+# N = int(input())  # Nhập N (giới hạn của Y)
+# X = int(input())  # Nhập X (số nhân với Y để được số chính phương)
+#
+# # Tính giới hạn cho k: k^2 <= N * X
+# limit = int(math.sqrt(N * X)) + 1  # Lấy nguyên trên của căn N*X
+#
+# count = 0  # Biến đếm số Y thỏa mãn
+# for k in range(1, limit + 1):
+#     # Nếu k chia hết cho X, thì k^2 chia hết cho X
+#     if k % X == 0:
+#         # Tính Y = k^2 / X
+#         Y = (k * k) // X
+#         # Kiểm tra Y <= N
+#         if Y <= N:
+#             count += 1
+#
+# # In kết quả
+# print(count)
