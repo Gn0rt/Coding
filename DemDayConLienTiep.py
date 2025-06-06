@@ -66,3 +66,6 @@ for i in range(n + 1):  # Duyệt từng P[i-1]
         else:
             left = mid + 1
     count += n - right  # Số cặp P[j] > target + S với j >= i
+
+with open("CNTSEQ.OUT", 'w') as f:
+    f.write(str(count))

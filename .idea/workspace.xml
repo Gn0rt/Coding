@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="362beff4-39a1-4dc7-bb8e-0720a4f5e2e8" name="Changes" comment="cmt">
-      <change afterPath="$PROJECT_DIR$/CNTSEQ.INP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CNTSEQ.OUT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemDayConLienTiep.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNTSEQ.OUT" beforeDir="false" afterPath="$PROJECT_DIR$/CNTSEQ.OUT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemDayConLienTiep.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemDayConLienTiep.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,26 +35,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.BinhDang.executor": "Run",
-    "Python.ChiaBanh.executor": "Run",
-    "Python.ChiaKeo.executor": "Run",
-    "Python.ChonNhom.executor": "Debug",
-    "Python.DayConCanBang.executor": "Run",
-    "Python.DemDayConLienTiep.executor": "Run",
-    "Python.DoanCanBang.executor": "Run",
-    "Python.HonSo.executor": "Run",
-    "Python.SumOdds.executor": "Run",
-    "Python.TimSo.executor": "Run",
-    "Python.XepQuanXeLenBanCo.executor": "Run",
-    "Python.hello.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.BinhDang.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ChiaBanh.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ChiaKeo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ChonNhom.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.DayConCanBang.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DemDayConLienTiep.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DoanCanBang.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HonSo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SumOdds.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TimSo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XepQuanXeLenBanCo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.DemDayConLienTiep">
     <configuration name="ChiaBanh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Coding" />
