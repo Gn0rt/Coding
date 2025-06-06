@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="362beff4-39a1-4dc7-bb8e-0720a4f5e2e8" name="Changes" comment="cmt">
+      <change afterPath="$PROJECT_DIR$/XAUDX.INP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XAUDX.OUT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XauDoiXung.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNTSEQ.OUT" beforeDir="false" afterPath="$PROJECT_DIR$/CNTSEQ.OUT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DemDayConLienTiep.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemDayConLienTiep.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,27 +36,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.BinhDang.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ChiaBanh.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ChiaKeo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ChonNhom.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.DayConCanBang.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DemDayConLienTiep.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DoanCanBang.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HonSo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SumOdds.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TimSo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.XepQuanXeLenBanCo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.BinhDang.executor": "Run",
+    "Python.ChiaBanh.executor": "Run",
+    "Python.ChiaKeo.executor": "Run",
+    "Python.ChonNhom.executor": "Debug",
+    "Python.DayConCanBang.executor": "Run",
+    "Python.DemDayConLienTiep.executor": "Run",
+    "Python.DoanCanBang.executor": "Run",
+    "Python.HonSo.executor": "Run",
+    "Python.SumOdds.executor": "Run",
+    "Python.TimSo.executor": "Run",
+    "Python.XauDoiXung.executor": "Run",
+    "Python.XepQuanXeLenBanCo.executor": "Run",
+    "Python.hello.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Python.DemDayConLienTiep">
+}]]></component>
+  <component name="RunManager" selected="Python.XauDoiXung">
     <configuration name="ChiaBanh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Coding" />
       <option name="ENV_FILES" value="" />
@@ -70,28 +72,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChiaBanh.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ChiaKeo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Coding" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChiaKeo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,6 +124,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="XauDoiXung" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coding" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XauDoiXung.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Coding" />
       <option name="ENV_FILES" value="" />
@@ -168,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.XauDoiXung" />
         <item itemvalue="Python.DemDayConLienTiep" />
         <item itemvalue="Python.ChiaBanh" />
         <item itemvalue="Python.DayConCanBang" />
         <item itemvalue="Python.hello" />
-        <item itemvalue="Python.ChiaKeo" />
       </list>
     </recent_temporary>
   </component>
