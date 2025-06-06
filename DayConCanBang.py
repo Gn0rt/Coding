@@ -17,12 +17,18 @@ for i in range(n):
 
     #Kiểm tra xem tổng hiện tại đã xuất hiện trước đó chưa
     if current_sum in sum_dict:
+        print(f"Lần thứ {i + 1}")
         #Nếu có, dãy con từ sum_dict[current_sum] + 1 đến i có tổng 0
+        print(f"length = {i} - {sum_dict[current_sum]}")
         length = i - sum_dict[current_sum] #độ dài dãy con
+        print(f"length = {length}")
         max_length = max(max_length, length) #cập nhật độ dài lớn nhất
     else:
+        print(f"Lần thứ {i + 1}")
         #lưu tổng hiện tại và chỉ số đầu tiên xuất hiện
         sum_dict[current_sum] = i
+        print(f"sum_dict[{current_sum}] = {i}")
+        print(f"sum_dict = {sum_dict}")
 
 with open('BALANSEQ.OUT', 'w') as f:
     f.write(str(max_length))
