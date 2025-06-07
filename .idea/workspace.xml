@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="362beff4-39a1-4dc7-bb8e-0720a4f5e2e8" name="Changes" comment="cmt">
-      <change afterPath="$PROJECT_DIR$/TrungBinhCong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GTBT.INP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GTBT.OUT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TinhGiaTriBieuThuc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +50,7 @@
     "Python.HonSo.executor": "Run",
     "Python.SumOdds.executor": "Run",
     "Python.TimSo.executor": "Run",
+    "Python.TrungBinhCong.executor": "Run",
     "Python.XauDoiXung.executor": "Run",
     "Python.XepHang.executor": "Debug",
     "Python.XepQuanXeLenBanCo.executor": "Run",
@@ -57,7 +60,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.TrungBinhCong">
+  <component name="RunManager" selected="Python.TinhGiaTriBieuThuc">
     <configuration name="DaySo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Coding" />
       <option name="ENV_FILES" value="" />
@@ -80,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DemDayConLienTiep" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TinhGiaTriBieuThuc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Coding" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DemDayConLienTiep.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TinhGiaTriBieuThuc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TinhGiaTriBieuThuc" />
         <item itemvalue="Python.TrungBinhCong" />
         <item itemvalue="Python.DaySo" />
         <item itemvalue="Python.XepHang" />
         <item itemvalue="Python.XauDoiXung" />
-        <item itemvalue="Python.DemDayConLienTiep" />
       </list>
     </recent_temporary>
   </component>
